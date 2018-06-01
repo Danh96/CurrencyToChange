@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DB7373A0-16D1-4236-8C34-DCAD69B295D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyToChange/Program.cs">
+    <Files>
+      <File FileName="CurrencyToChange/Program.cs" Line="67" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CurrencyToChange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

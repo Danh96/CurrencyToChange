@@ -1,0 +1,5 @@
+/Users/hayesd5/Projects/CurrencyToChange/CurrencyToChange/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hayesd5/Projects/CurrencyToChange/CurrencyToChange/bin/Debug/CurrencyToChange.pdb
+/Users/hayesd5/Projects/CurrencyToChange/CurrencyToChange/bin/Debug/CurrencyToChange.exe
+/Users/hayesd5/Projects/CurrencyToChange/CurrencyToChange/obj/x86/Debug/CurrencyToChange.exe
+/Users/hayesd5/Projects/CurrencyToChange/CurrencyToChange/obj/x86/Debug/CurrencyToChange.pdb
